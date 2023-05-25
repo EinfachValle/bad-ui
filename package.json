@@ -1,5 +1,5 @@
 {
-  "name": "vr-basic-vue-template",
+  "name": "bad-ui",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -89,7 +89,10 @@
   },
   "description": "This template should help get you started developing with Vue 3 in Vite.",
   "main": "babel.config.js",
-  "keywords": ["template", "vue"],
+  "keywords": [
+    "template",
+    "vue"
+  ],
   "author": "Valentin Roehle",
   "license": "ISC",
   "eslintConfig": {
@@ -145,7 +148,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/EinfachValle/vr-basic-vue-template/issues"
+    "url": "https://github.com/EinfachValle/bad-ui/issues"
   },
   "husky": {
     "hooks": {
